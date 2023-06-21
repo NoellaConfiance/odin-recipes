@@ -1,1 +1,1 @@
-# NoellaConfiance.odin-recipes
+# odin-recipes
